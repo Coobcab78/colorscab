@@ -1,0 +1,258 @@
+{
+"name": "cabbys colors",
+"description": "Idk i hope its a theme",
+"authors": [
+{
+"name": "cursed_cabbage",
+"id": "524312843068243978"
+}
+],
+"semanticColors": {
+
+"HEADER_PRIMARY": [
+
+"#FCFFED"
+
+],
+
+"HEADER_SECONDARY": [
+
+"#FCFFED"
+
+],
+
+"TEXT_NORMAL": [
+
+"#FCFFED"
+
+],
+
+"TEXT_MUTED": [
+
+"#3B3B3C"
+
+],
+
+"INTERACTIVE_NORMAL": [
+
+"#689D6A"
+
+],
+
+"INTERACTIVE_HOVER": [
+
+"#8EC07C"
+
+],
+
+"INTERACTIVE_ACTIVE": [
+
+"#8EC07C"
+
+],
+
+"INTERACTIVE_MUTED": [
+
+"#2F2F2F"
+
+],
+
+"BACKGROUND_PRIMARY": [
+
+"#FC8019"
+
+],
+
+"BACKGROUND_SECONDARY": [
+
+"#204E8C"
+
+],
+
+"BACKGROUND_SECONDARY_ALT": [
+
+"#282828"
+
+],
+
+"BACKGROUND_TERTIARY": [
+
+"#1D2021"
+
+],
+
+"BACKGROUND_ACCENT": [
+
+"#689D6A"
+
+],
+
+"BACKGROUND_FLOATING": [
+
+"#1D2021"
+
+],
+
+"BACKGROUND_MOBILE_PRIMARY": [
+
+"#282828"
+
+],
+
+"BACKGROUND_MOBILE_SECONDARY": [
+
+"#212425"
+
+],
+
+"BACKGROUND_NESTED_FLOATING": [
+
+"#282828"
+
+],
+
+"BACKGROUND_MESSAGE_HOVER": [
+
+"#282828"
+
+],
+
+"BACKGROUND_MODIFIER_HOVER": [
+
+"#1E2823"
+
+],
+
+"BACKGROUND_MODIFIER_ACTIVE": [
+
+"#1E2823"
+
+],
+
+"BACKGROUND_MODIFIER_SELECTED": [
+
+"#5C765C"
+
+],
+
+"BACKGROUND_MODIFIER_ACCENT": [
+
+"#1D2021"
+
+],
+
+"SCROLLBAR_THIN_THUMB": [
+
+"#1D2021"
+
+],
+
+"SCROLLBAR_THIN_TRACK": [
+
+"transparent"
+
+],
+
+"SCROLLBAR_AUTO_THUMB": [
+
+"#1D2021"
+
+],
+
+"SCROLLBAR_AUTO_TRACK": [
+
+"#1D2021"
+
+],
+
+"CHANNEL_TEXT_AREA_PLACEHOLDER": [
+
+"#689D6A"
+
+],
+
+"CHANNELS_DEFAULT": [
+
+"#689D6A"
+
+],
+
+"TEXT_LINK": [
+
+"#458588"
+
+],
+
+"TEXT_DANGER": [
+
+"#CC241D"
+
+],
+
+"KEYBOARD": [
+
+"#1D2021"
+
+],
+
+"CHANNEL_ICON": [
+
+"#689D6A"
+
+],
+
+"CHAT_BACKGROUND": [
+
+"#282828"
+
+]
+
+},
+
+"rawColors": {
+
+"PRIMARY_500": "#111314",
+
+"PRIMARY_100": "#665C54",
+
+"PRIMARY_200": "#689D6A",
+
+"PRIMARY_300": "#665C54",
+
+"PRIMARY_360": "#83A598",
+
+"PRIMARY_400": "#689D6A",
+
+"PRIMARY_600": "#111314",
+
+"PRIMARY_630": "#D3869B",
+
+"PRIMARY_660": "#1D2021",
+
+"PRIMARY_700": "#8EC07C",
+
+"PRIMARY_800": "#1D2021",
+
+"BRAND_260": "#5C765C",
+
+"BRAND_360": "#5C765C",
+
+"BRAND_500": "#8EC07C",
+
+"BRAND_560": "#1D2021",
+
+"YELLOW_300": "#110D0A",
+
+"GREEN_600": "#8EC07C",
+
+"RED_400": "#8EC07C",
+
+"WHITE_500": "#8EC07C",
+
+"GREEN_360": "#503E38"
+
+},
+
+"spec": 2
+
+}
